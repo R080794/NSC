@@ -1,2 +1,5 @@
-# cMakeProject
-this is my fisrs cmake project
+# NSC_Project
+Project Description: to be added
+
+Build prerequisites:
+1.CMake tools.
